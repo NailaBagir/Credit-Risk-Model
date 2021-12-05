@@ -1,5 +1,5 @@
 # Credit-Risk-Model
-Credit risk database is a typical banking database containing information about loan applications. Usually it contains information on all parameters which are \ completed by the risk department in order to evaluate the applicants’ status and make the decision on the loan provision. \
+Credit risk database is a typical banking database containing information about loan applications. Usually it contains information on all parameters which are completed by the risk department in order to evaluate the applicants’ status and make the decision on the loan provision.
 
 Loan ID - ID of the application in the database. Applied automatically by the system. \
 Gender - select from the list Male or Female \
